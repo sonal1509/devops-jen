@@ -2,7 +2,9 @@ class A{
 
 public static void main(String[] args){
 System.out.println("hello World");
-System.out.println("this is my first git")
+System.out.println("this is my first git");
+System.out.println("changes from git");
 //this is my first git hub repository
+//this is changes from github
 }
 }
